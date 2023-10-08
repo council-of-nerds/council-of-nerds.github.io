@@ -1,5 +1,5 @@
 
-var fact = Math.floor(Math.random() * factlist.length());
+const fact = Math.floor(Math.random() * 12);
 
 if (fact == 0) {
 	document.getElementById("fact").innerHTML = "Increased levels of carbon dioxide (CO2) in the atmosphere can lead to ocean acidification. This makes it difficult for organisms like corals, shellfish, and some fish to build and maintain their calcium carbonate shells or skeletons.";
