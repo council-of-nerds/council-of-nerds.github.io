@@ -9,7 +9,7 @@
 
 ## Live demo
 
-[AquaCast]: https://council-of-nerds.github.io/
+[1]: :https://council-of-nerds.github.io/
 
 ## What could be added?
   Aquacast could be a great informatory application that could possibly save a ton of lives.
