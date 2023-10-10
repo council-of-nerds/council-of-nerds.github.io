@@ -7,6 +7,10 @@
   + National Water Monitoring Programme or **NWMP** ---> This data was used for the Indian water bodies. (This data was outdated and limited)
   + United States Geological Survey or **USGS** ---> This data was used for the US water bodies. (This data was updated in realtime, but we found it pretty late into the project. So all we could do was link the data to their respective links)
 
+## Live demo
+
+[AquaCast]: https://council-of-nerds.github.io/
+
 ## What could be added?
   Aquacast could be a great informatory application that could possibly save a ton of lives.
   > Each year, 829,000 people die from diseases directly attributable to unsafe water, inadequate sanitation and poor hygiene practices. -UNICEF
